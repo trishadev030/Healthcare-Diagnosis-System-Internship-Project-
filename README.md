@@ -94,6 +94,12 @@ React Native (Frontend - iOS & Android)
 
 
 ---
+## Code Structure
+
+- `code_snippets/backend/stored_procedure.sql` → Handles diagnosis CRUD operations  
+- `code_snippets/diagnosisAPI.tsx` → Backend API integration  
+- `code_snippets/DiagnosisTab.tsx` → Frontend diagnosis management UI  
+- `code_snippets/addDiagnosisModal.tsx` → Patient data input component  
 
 ## Note
 
