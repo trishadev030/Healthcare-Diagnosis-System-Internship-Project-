@@ -1,4 +1,4 @@
-/****** Object:  StoredProcedure [dbo].[proc_CRUD_ParticipantDiagnosis_APP]    Script Date: 4/27/2026 12:45:20 PM ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
