@@ -100,13 +100,14 @@ React Native (Frontend - iOS & Android)
 ## Code Structure
 
 - `code_snippets/backend/stored_procedure.sql` → Handles diagnosis CRUD operations  
-- `code_snippets/diagnosisAPI.tsx` → Backend API integration  
+- `code_snippets/diagnosisAPI.tsx` → Invoking API endpoints in app  
 - `code_snippets/DiagnosisTab.tsx` → Frontend diagnosis management UI  
 - `code_snippets/addDiagnosisModal.tsx` → Patient data input component  
 
 ## Note
 
-This project was developed during my internship at VCS Systems.  
+This project was developed during my internship at VCSSYSTEMS.  
 Due to company confidentiality policies, the complete source code cannot be shared.
 
 This repository includes only selected code snippets, database procedures, and screenshots that demonstrate my contributions.
+Under guidance of Mr. Dileep Kumar, IT Manager, VCSSYSTEMS.
